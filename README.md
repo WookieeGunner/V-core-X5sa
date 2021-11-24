@@ -1,3 +1,6 @@
+# Note: 
+This is a fork of the Rat Rig V-Core-3 Repository.  The purpose of this repository is to create an upgrade bath from the TronXY X5sa printer to a V-Core-3 style printer with the intent of reusing as much of the X5SA components as reasonable.  Any part that needs redesign will have two sub foldders, V-Core-3 for the original part and V-Core-S5SA for the modified part.
+
 # Rat Rig V-Core-3
 
 ## Links
